@@ -15,3 +15,10 @@ Then add `javascript:` to the minified output, to create the link, like so:
 
 You can drag this out as a link to your bookmark bar.
 
+Another cheeky one is the MeatVideoHider, which stops the local video from rendering unless the mouse if hovered over the video or input text footer of the page. This stops the CPU from maxing all the time, and thus saves lots of battery!
+
+    javascript:(function(){"use strict";jQuery(document).on("mouseenter","#footer",function(){jQuery("video").show()}),jQuery(document).on("mouseleave","#footer",function(){jQuery("video").hide()})})();
+
+😄
+
+
