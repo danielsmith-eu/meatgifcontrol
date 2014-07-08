@@ -9,6 +9,10 @@ Run the bookmarklet, then click on a GIF to start/stop it.
 Bookmarklets are here:
 https://danielsmith.eu/meatgifcontrol/
 
+You drag them like this:
+
+![Image of dragging the bookmarks](bookmarklet-drag.gif)
+
 
 ## Implementation detail
 
