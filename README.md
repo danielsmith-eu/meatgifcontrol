@@ -4,6 +4,13 @@ Bookmarklet for adding GIF control to meatspace.
 
 Run the bookmarklet, then click on a GIF to start/stop it.
 
+# Bookmarklets
+
+Bookmarklets are here:
+https://danielsmith.eu/meatgifcontrol/
+
+
+## Implementation detail
 
 I used the npm `minifier` package to minify, like this:
 
